@@ -45,6 +45,5 @@ public class SongController {
         userText.setText(" ");
         tagsText.setText(" ");
 
-        System.exit(0);
     }
 }
